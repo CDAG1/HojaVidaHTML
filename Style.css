@@ -8,14 +8,14 @@ color: black;
 
     background-color: rgb(181, 184, 184);
     width: 300px;
-    height: 124vh;
+    height: 131.5vh;
     float: left;    
 }
 .hojavida2{
 
     background-color: rgb(124, 120, 120);
     width: 56%;
-    height: 115.5vh;
+    height: 123vh;
     padding: 2%;
     display: inline-block;
 
@@ -31,3 +31,6 @@ body .hojavida2 h4{
 color: red;
 
 }
+ #cargo{
+     background-color:rgb(104, 102, 102);
+ }
