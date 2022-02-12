@@ -1,0 +1,33 @@
+p{
+
+color: black;
+
+}
+
+.hojavida{
+
+    background-color: rgb(181, 184, 184);
+    width: 300px;
+    height: 124vh;
+    float: left;    
+}
+.hojavida2{
+
+    background-color: rgb(124, 120, 120);
+    width: 56%;
+    height: 115.5vh;
+    padding: 2%;
+    display: inline-block;
+
+}
+#imgFoto{
+
+border-radius: 50%;
+
+}
+
+body .hojavida2 h4{
+
+color: red;
+
+}
